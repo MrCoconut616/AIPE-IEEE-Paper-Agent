@@ -81,6 +81,8 @@
   },
   "documentation": [
     "README.md",
-    "docs/aipe-integration.md"
+    "docs/aipe-integration.md",
+    "docs/architecture.md",
+    "docs/usage.md"
   ]
 }
